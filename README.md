@@ -113,6 +113,8 @@ This project is independently developed by Otmane Sniba and is not affiliated wi
 
 ### 🙏 Acknowledgments 
 
-● Special thanks to all contributors who helped improve this project
-● Grateful to the open source community for inspiration
-● Appreciation to everyone who provided feedback and suggestions
+● Special thanks to all contributors who helped improve this project.
+
+● Grateful to the open source community for inspiration.
+
+● Appreciation to everyone who provided feedback and suggestions.
